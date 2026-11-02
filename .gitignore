@@ -1,0 +1,15 @@
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and temporary files
+*.log
+tags
+
+# Backups made by install.sh
+nvim.bak.*
+
+# NOTE: lazy-lock.json is NOT ignored on purpose.
+# Commit it: it pins plugin versions, so :Lazy restore can undo a bad update.
