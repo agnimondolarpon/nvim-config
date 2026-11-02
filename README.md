@@ -41,7 +41,7 @@ VS Code style icons, fuzzy finder, git integration and a safe one-command instal
 ## Install
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/nvim-config.git
+git clone https://github.com/agnimondolarpon/nvim-config.git
 cd nvim-config
 ./install.sh
 ```
